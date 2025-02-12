@@ -9,7 +9,7 @@
 
 <div align="center" dir="auto">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150vh" align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" />
-  <img height="150vh" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&amp;layout=compact&amp;langs_count=7&amp;theme=dark" />
+  <img height="200vh" align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" />
+  <img height="200vh" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&amp;layout=compact&amp;langs_count=7&amp;theme=dark" />
 </a>
 </div>
