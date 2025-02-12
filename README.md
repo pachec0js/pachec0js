@@ -7,9 +7,17 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a big volleyball fan and I love programming.
 
+# 📊 GitHub Stats:
 <div align="center" dir="auto">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150vh" align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" />
   <img height="150vh" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&amp;layout=compact&amp;langs_count=7&amp;theme=dark" />
 </a>
+
+# 💼 Technology Stock
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+</div>
 </div>
