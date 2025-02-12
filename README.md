@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @lFabioPachecol
+# 👋 Hi, I’m Fabio Pacheco
 
 - 👀 I’m interested in the areas of IT, such as systems development.
 - 🌱 I’m currently studying Systems Development at Senai Armando de Arruda Pereira. I participate in the F1 IN SCHOOLS project with the Genus Racing Team as a Manufacturing Engineer and completed a 6-month Scientific Initiation course at SESI São Caetano 222.
