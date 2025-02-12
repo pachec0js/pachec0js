@@ -13,6 +13,7 @@
   <img height="150vh" align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" />
   <img height="150vh" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&amp;layout=compact&amp;langs_count=7&amp;theme=dark" />
 </a>
+</div>
 
 # 💼 Technology Stock
 <div align="center" dir="auto">
