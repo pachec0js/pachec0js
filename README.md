@@ -36,14 +36,14 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lFabioPachecol&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lFabioPachecol&layout=compact&hide_border=true&title_color=ff91a4&text_color=00FFFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pachec0js&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachec0js&layout=compact&hide_border=true&title_color=ff91a4&text_color=00FFFF&bg_color=0d1117" />
 </div>
 
 <div align="center">
   <br>
   <p align="center"><b>Contador de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{lFabioPachecol}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{pachec0js}/count.svg" /></p> 
   <br>
 </div>
 
