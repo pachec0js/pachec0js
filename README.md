@@ -5,22 +5,20 @@
 ## 🙋 Sobre mim
 
 - 👨‍💻 Sou **Fabio Pacheco**, estudante de Desenvolvimento de Sistemas no **Senai Armando de Arruda Pereira**.
-- 🏎️ Faço parte do projeto **F1 IN SCHOOLS** como **Engenheiro de Manufatura** na equipe **Genus Racing Team**.
 - 🔬 Concluí um curso de **Iniciação Científica** de 6 meses no **SESI São Caetano 222**.
 - 🎨 Tenho interesse em **desenvolvimento web e design**.
-- 🌍 Busco colaborar em projetos relacionados a **desenvolvimento de sites e manufatura no F1 IN SCHOOLS**.
+- 🌍 Busco colaborar em projetos relacionados a **desenvolvimento de sites**.
 - 📩 Contato: **fabio.h.l.pacheco@gmail.com**
 - ⚡ Curiosidade: Sou um grande fã de **vôlei** e adoro **programar**!
 
 #### 🛠️ Atualmente estudando com:
 
 <div dir="auto">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://github.com/user-attachments/assets/9302bd6a-5de7-480d-8867-2c52c2ac0ac2" width="150px" align="right" borderRadius="100px" />
 
 </div>
