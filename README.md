@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+perfil!;Como+você+está?;:%29)](https://git.io/typing-svg)
 
-## 🙋 Sobre mim
+## 🙋‍♂️ Sobre mim
 
 - 👨‍💻 Sou **Fabio Pacheco**, estudante de Desenvolvimento de Sistemas no **Senai Armando de Arruda Pereira**.
 - 🔬 Concluí um curso de **Iniciação Científica** de 6 meses no **SESI São Caetano 222**.
